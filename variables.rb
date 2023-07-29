@@ -12,4 +12,14 @@ hungry = false
 bored = false
 happy = false
 married = false
+name = "Anna"
+
+puts "My wife's name is " + name + "."   
+puts "She hikes #{hikes_this_week}" + " times per week."
+
+puts 45+5
+
+
+
+
 
